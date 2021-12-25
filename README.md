@@ -1,5 +1,7 @@
-#Project
-This is my mini project during data science course.
+# Project
+This is my projects during data science course.
+
+Capstone Project - Churn Prediction
 
 Mini Project 1 - EDA
 

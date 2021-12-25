@@ -1,4 +1,4 @@
-# Mini-Project
+#Project
 This is my mini project during data science course.
 
 Mini Project 1 - EDA

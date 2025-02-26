@@ -1,7 +1,5 @@
 # Project
-This is my projects during data science course.
-
-Capstone Project - Churn Prediction
+Churn Prediction
 
 Mini Project 1 - EDA
 
